@@ -74,7 +74,7 @@ Each presentation should take approximately 5 minutes and cover the following ma
 ```
 
 
-<a href="https://drive.google.com/open?id=1QNOeCBsw4tMSl-5xp1nF65Z8Ot0FqZBrJYXu_Nsa_Uc">Great read: Capstone Tips by Callan Morrison</a>
+<a href="https://docs.google.com/document/d/1-yNEwKpis-E84qjFjbfwig2zCkB0BAZIHY473wTdqBQ/edit?usp=sharing">Great read: Capstone Tips by Callan Morrison</a>
 
 
 ## Presentation Order
